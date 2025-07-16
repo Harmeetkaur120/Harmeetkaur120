@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harmeet-kaur-1010aa254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harmeet-kaur-1010aa254/" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/harmeet-kaur-1010aa254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harmeet-kaur-1010aa254/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
